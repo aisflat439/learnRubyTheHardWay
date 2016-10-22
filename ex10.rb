@@ -13,3 +13,6 @@ puts tabby_cat
 puts persian_cat
 puts backslash_cat
 puts fat_cat
+puts "ASCII bel (printer beep) \a in this puts"
+puts "ASCII bs \b in this puts"
+puts "ASCII vertical tab \v in this puts"
