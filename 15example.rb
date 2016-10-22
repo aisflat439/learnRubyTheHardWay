@@ -1,7 +1,7 @@
 # grabs the first argument passed in to the script and puts it into filename
 filename = ARGV.first
 
-# uses the open method on the file stores that in txt
+# uses the open method on the file stores that in txt file object 
 txt = open(filename)
 
 #standard puts
