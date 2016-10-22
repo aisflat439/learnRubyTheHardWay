@@ -15,7 +15,7 @@ lives = $stdin.gets.chomp
 puts "What kind of computer do you have? ", prompt
 computer = $stdin.gets.chomp
 
-puts "\tThis shows how two puts works", "\tSee! With a comma"
+puts "This shows how two puts works", "See! With a comma"
 
 puts """
 Alright, you said #{likes} about liking me.
