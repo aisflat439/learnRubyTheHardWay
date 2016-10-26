@@ -31,9 +31,9 @@ elsif door == "2"
   if insanity == "1" || insanity == "2"
     puts "Your body survies by Jello"
   else
-    puts "The insnanity rots your brain"
+    puts "The insanity rots your brain."
   end
 
 else
-  puts "You stumble aroudn and die"
+  puts "You stumble around and die."
 end
