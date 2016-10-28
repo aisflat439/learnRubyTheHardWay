@@ -6,11 +6,11 @@ for number in the_count
   puts "This is count #{number}"
 end
 
-fruits.each do |fruit|
-  puts "A fruit of type: #{fruit}"
+fruits.each do |waffle|
+  puts "A fruit of type: #{waffle}"
 end
 
-change.each {|i| puts "I got #{i}"}
+fruits.each {|f| puts "Another fruit of type: #{f}" }
 
 elements = []
 
